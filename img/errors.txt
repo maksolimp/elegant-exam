@@ -1,0 +1,2 @@
+[2016-11-19 10:40:57] layer "Right Arrow Circular Button. Attribute as Robin Kylander from Flaticon.com": Unsupported extension: com
+[2016-11-19 10:40:57] layer "Link 1. Attribute as Freepik from Flaticon.com": Unsupported extension: com
